@@ -1,0 +1,95 @@
+Student: 2127831 - Tran Huu Minh
+GPA=7.3, Telephone=0909-888-773
+Email=thminh@student.hcmus.edu.vn
+DOB=17/12/2003
+Address=8 Nguyen Dinh Chieu, Ward 5, District 3, Ho Chi Minh city
+Student: 2127832 - Nguyen Dieu Linh
+GPA=9.22, Telephone=0912-351-718
+Email=thminh@student.hcmus.edu.vn
+DOB=23/09/2003
+Address=22 Ngo Thoi Nhiem, Ward 2, District 1, Ho Chi Minh city 
+Student: 2127833 - Ngo Thoi Chanh
+GPA=8.12, Telephone=0977-161-237
+Email=ntchanh@student.hcmus.edu.vn
+DOB=12/06/2003
+Address=8 Binh Long, Binh Hung Hoa Ward, Bin Tan District, Ho Chi Minh city
+Student: 2018228 - Dang Pham Anh
+GPA=5.3, Telephone=127-719-337
+Email=2018228@student.hcmus.edu.vn
+DOB=24/4/2000
+Address=80/20 Le Pham Tran, Ho Chi Minh city
+Student: 2019944 - Dang Hoang Nhat
+GPA=9.1, Telephone=519-123-420
+Email=2019944@student.hcmus.edu.vn
+DOB=13/2/2013
+Address=59/71 Duong Pham Hoang, Ho Chi Minh city
+Student: 2026445 - Huynh Pham Tran
+GPA=8.9, Telephone=378-186-861
+Email=2026445@student.hcmus.edu.vn
+DOB=29/7/2011
+Address=75/61 Nguyen Hoang Tien, Ho Chi Minh city
+Student: 2021083 - Ly Dang Van
+GPA=3.7, Telephone=797-445-880
+Email=2021083@student.hcmus.edu.vn
+DOB=3/2/2014
+Address=88/58 Phan Huynh Tran, Ho Chi Minh city
+Student: 2028996 - Hoang Do Huan
+GPA=9, Telephone=878-512-860
+Email=2028996@student.hcmus.edu.vn
+DOB=3/9/2005
+Address=82/56 Hoang Ngo Van, Ho Chi Minh city
+Student: 2000859 - Ho Nguyen Anh
+GPA=8.5, Telephone=233-702-967
+Email=2000859@student.hcmus.edu.vn
+DOB=26/3/1999
+Address=17/80 Ly Chan Hoang, Ho Chi Minh city
+Student: 2010603 - Pham Chan Hoang
+GPA=2.7, Telephone=816-473-658
+Email=2010603@student.hcmus.edu.vn
+DOB=3/12/2009
+Address=62/42 Do Chan Hoang, Ho Chi Minh city
+Student: 2005136 - Ho Pham Long
+GPA=5.9, Telephone=624-652-908
+Email=2005136@student.hcmus.edu.vn
+DOB=30/2/1994
+Address=17/36 Dang Ngo Huan, Ho Chi Minh city
+Student: 2002158 - Hoang Do Kiet
+GPA=8.7, Telephone=624-921-267
+Email=2002158@student.hcmus.edu.vn
+DOB=6/12/1997
+Address=81/35 Do Ngo Phu, Ho Chi Minh city
+Student: 2024810 - Le Ho Kiet
+GPA=3.6, Telephone=421-563-198
+Email=2024810@student.hcmus.edu.vn
+DOB=12/12/1998
+Address=19/96 Bui Chan Tran, Ho Chi Minh city
+Student: 2009022 - Phan Le Huy
+GPA=7.2, Telephone=950-872-123
+Email=2009022@student.hcmus.edu.vn
+DOB=13/1/2020
+Address=30/17 Duong Ngo Hoang, Ho Chi Minh city
+Student: 2007043 - Hoang Duong Huong
+GPA=2, Telephone=853-646-421
+Email=2007043@student.hcmus.edu.vn
+DOB=17/1/1996
+Address=57/89 Bui Chan Tien, Ho Chi Minh city
+Student: 2009050 - Hoang Pham Trinh
+GPA=5.2, Telephone=419-671-853
+Email=2009050@student.hcmus.edu.vn
+DOB=20/6/1994
+Address=69/43 Duong Vo Phu, Ho Chi Minh city
+Student: 2023153 - Phan Ho Phu
+GPA=8.4, Telephone=765-931-662
+Email=2023153@student.hcmus.edu.vn
+DOB=24/3/2009
+Address=35/99 Huynh Duong Trinh, Ho Chi Minh city
+Student: 2028833 - Phan Phan Long
+GPA=5.5, Telephone=299-347-599
+Email=2028833@student.hcmus.edu.vn
+DOB=26/4/2006
+Address=70/51 Vo Huynh Hoang, Ho Chi Minh city
+Student: 2014063 - Ngo Phan Kiet
+GPA=8.2, Telephone=779-797-468
+Email=2014063@student.hcmus.edu.vn
+DOB=4/8/2011
+Address=24/52 Le Ly Huy, Ho Chi Minh city

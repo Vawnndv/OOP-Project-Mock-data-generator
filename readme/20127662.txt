@@ -1,0 +1,17 @@
+Name: Nguyễn Đình Văn
+MSSV: 20127662
+
+## Requirements
+
+- [Done]  Read all students saved in the file **"students.txt"** back into a vector of Student. You can hard-code this file as follow
+- [Done]  Generate randomly a number n in the range of [5, 10]
+- [Done]  Generate randomly n Students and add to the previous vector
+- [Done]  Overwrite and save and the students in the current vector back to the file "students.txt"
+- [Done]  Print out the average GPA of all students
+- [Done]  Print out all the students that have a GPA greater than the average GPA
+
+- List all the things that you have done that the instructor should consider for a bonus:
+	+ Chia file.
+	+ Có các class Address, DayMonthYear, Email, MockStudentDataGenerator, Telephone, Student, NameGenerator, RandomIntegerGenerator.
+
+Expected grade: 10
